@@ -7,4 +7,4 @@
 - pnpm-wordspace.yaml
 - pull.sh
 # pull all git : ./pull.sh
-# run all app wordspace: pnpm run start:dev
+# run all app workspace: pnpm run start:dev
