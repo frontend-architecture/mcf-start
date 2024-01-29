@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"pnpm --stream -r run start:local"
-    
+    "start":"pnpm --stream -r run start:local",
+    "git:pull":"sh ./pull.sh"
   },
   "keywords": [],
   "author": "",
